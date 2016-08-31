@@ -1,0 +1,14 @@
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\bin\Debug\CardSorterTest.dll
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\bin\Debug\CardSorterTest.pdb
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\bin\Debug\CardSorter.exe
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\bin\Debug\CardSorter.pdb
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\obj\Debug\CardSorterTest.csprojResolveAssemblyReference.cache
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\obj\Debug\CardSorterTest.dll
+c:\users\egor\documents\visual studio 2012\Projects\CardSorter\CardSorterTest\obj\Debug\CardSorterTest.pdb
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\bin\Debug\CardSorterTest.dll
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\bin\Debug\CardSorterTest.pdb
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\bin\Debug\CardSorter.exe
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\bin\Debug\CardSorter.pdb
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\obj\Debug\CardSorterTest.csprojResolveAssemblyReference.cache
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\obj\Debug\CardSorterTest.dll
+U:\bases\GIT\Personal\phil\tests\CardSorter\CardSorterTest\obj\Debug\CardSorterTest.pdb
